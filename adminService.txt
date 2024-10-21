@@ -4,3 +4,5 @@ change the roles
 
 
 login and logout.
+Manage the database
+Closing the connection
