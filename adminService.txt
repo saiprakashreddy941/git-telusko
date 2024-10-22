@@ -13,4 +13,5 @@ Change2
 Change1
 
 Server to Local/Client
-Local to Sever Merge Conflict
+
+Server to Local Merge Conflict
